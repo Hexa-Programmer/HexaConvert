@@ -1,0 +1,31 @@
+h1{
+    font-family: "Geist", sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    color: #322D29;
+    text-align: right;
+    padding-right: 2%;
+}
+.serif-heading{
+    font-family: "Newsreader", serif;
+    font-weight: 200;
+    font-style: italic;
+    color: #322D29;
+    text-align: right;
+    padding-right: 2%;
+    font-size: 64px;
+    margin-bottom: 0px;
+}
+.converting-text{
+    font-family: "Newsreader", serif;
+    font-weight: 200;
+    font-style: italic;
+    color: #322D29;
+    text-align: right;
+    padding-right: 2%;
+    font-size: 128px;
+    margin-top: 2px;
+}
+body{
+    background-color: #EFE9E1;
+}
