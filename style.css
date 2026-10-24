@@ -5,26 +5,66 @@ h1{
     color: #322D29;
     text-align: right;
     padding-right: 2%;
+    margin-bottom: 0px;
 }
 .serif-heading{
     font-family: "Newsreader", serif;
-    font-weight: 200;
+    font-weight: 300;
     font-style: italic;
     color: #322D29;
     text-align: right;
     padding-right: 2%;
     font-size: 64px;
     margin-bottom: 0px;
+    margin-top: 4px
 }
 .converting-text{
     font-family: "Newsreader", serif;
-    font-weight: 200;
+    font-weight: 300;
     font-style: italic;
     color: #322D29;
     text-align: right;
     padding-right: 2%;
     font-size: 128px;
     margin-top: 2px;
+}
+.question{
+    font-family: "Newsreader", serif;
+    font-weight: 300;
+    font-style: italic;
+    color: #322D29;
+    text-align: left;
+    padding-right: 2%;
+    font-size: 64px;
+    margin-top: 2px;
+    margin-left: 100px;
+}
+.converter_interface{
+    width: 100%;
+    margin: 48px 0;
+    padding: 32px;
+    background-color: #f3e0c6;
+    border: 1px solid #533002;
+    border-radius: 16px;
+    box-sizing: border-box;
+}
+.converter_heading{
+    font-family: "Inter", sans-serif;
+    font-style: normal;
+    font-weight: 100;
+    color: #322D29;
+    text-align: left;
+    padding-right: 2%;
+    margin-bottom: 0px;
+}
+.dropdown{
+    font-family: "Geist", sans-serif;
+    font-size: 32px;
+    color: #322D29;
+    background-color: #f3e0c6;
+    border: 1px solid #533002;
+    border-radius: 8px;
+    width: 100%;
 }
 body{
     background-color: #EFE9E1;
